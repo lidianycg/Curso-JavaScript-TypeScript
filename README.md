@@ -1,4 +1,4 @@
- "#Curso-JavaScript-TypeScript"
+ # Curso-JavaScript-TypeScript
 
  146 horas - Em andamento
  
